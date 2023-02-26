@@ -3,3 +3,16 @@ This application is designed to fasilitate the work of house buy and rent brocke
 it contains location picture price and other nessery information about the house.
 people who want to buy or rent a house can search a house using location , type , price and other information , and also it supports both english and amharic language
 this will make it easer for both the owner and the person who want to buy or rent a house
+
+
+
+# House-renting-mobile-application
+
+
+Find your perfect home with ease. We make the process of renting and buying a house a breeze with our intuitive app
+## Screenshots
+
+![App Screenshot]https://github.com/Tibebetad/Home_Rent_and_Sell_System/blob/main/ssss/1.jpg?raw=true)
+
+
+![App Screenshot]https://github.com/Tibebetad/Home_Rent_and_Sell_System/blob/main/ssss/2.jpg?raw=true)
