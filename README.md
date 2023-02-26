@@ -12,7 +12,7 @@ this will make it easer for both the owner and the person who want to buy or ren
 Find your perfect home with ease. We make the process of renting and buying a house a breeze with our intuitive app
 ## Screenshots
 
-![App Screenshot]https://github.com/Tibebetad/Home_Rent_and_Sell_System/blob/main/ssss/1.jpg?raw=true)
+!(App Screenshot]https://github.com/Tibebetad/Home_Rent_and_Sell_System/blob/main/ssss/1.jpg?raw=true)
 
 
 ![App Screenshot]https://github.com/Tibebetad/Home_Rent_and_Sell_System/blob/main/ssss/2.jpg?raw=true)
